@@ -1,0 +1,132 @@
+﻿body {
+    font-size: 14px;
+}
+
+.btn {
+    font-size: 14px;
+}
+
+.dropdown-menu {
+    font-size: 14px;
+}
+
+td.details-control {
+    background: url('../images/plus-button.png') no-repeat center center;
+    background-size: 15px;
+    cursor: pointer;
+    padding: .75em !important;
+}
+
+tr.shown td.details-control {
+    background: url('../images/minus-button.png') no-repeat center center;
+    background-size: 15px;
+}
+
+.table-condensed th {
+    padding: .40em;
+    white-space: nowrap;
+    font-size: 14px;
+}
+
+.table-condensed td {
+    padding: .40em;
+    white-space: nowrap;
+}
+
+.dataTables_filter {
+    text-align: left !important;
+}
+
+.dataTables_paginate {
+    text-align: right !important;
+    margin-top: 10px !important;
+}
+
+.dataTables_paginate {
+    position: fixed;
+    bottom: 0;
+}
+
+.pagination {
+    justify-content: flex-start !important;
+}
+
+.select2 {
+    width: 100% !important;
+    border-color: #ced4da;
+}
+
+.select2-results__option {
+    float: none;
+    background-color: white;
+}
+
+.select2-results__option--highlighted {
+    color: black;
+    background-color: #71A80C;
+}
+
+.modal-lg {
+    max-width: 950px;
+}
+
+.btn-outline-light {
+    border-color: #ccc;
+}
+
+    .btn-outline-light:hover {
+        border-color: #ccc;
+    }
+
+.select2-selection__rendered {
+    font-size: .875rem;
+}
+
+.dataTables_length {
+    padding-top: 1px;
+}
+
+.yellow {
+    background-color: rgb(255,255,102);
+}
+
+    .yellow:hover {
+        background-color: rgba(255,255,102,.8) !important;
+    }
+
+.dataTables_length {
+    text-align: left !important;
+}
+
+.tab-pane {
+    margin-top: 20px;
+}
+
+.div_rollback_btn {
+    right: 20px;
+    position: absolute;
+}
+
+.add-item {
+    vertical-align: middle;
+}
+
+input[type="radio"],
+input[type="checkbox"] {
+    margin-right: 5px;
+    vertical-align: middle;
+}
+
+.hide {
+    display: none;
+}
+
+.checkedmark {
+    font-size: x-large;
+    color: #4CAF50;
+}
+
+.crossmark {
+    font-size: x-large;
+    color: #eb1f1f;
+}

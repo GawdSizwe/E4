@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<USERS>
+  <USER id="1">
+    <NAME>Star</NAME>
+    <SURNAME>Wars</SURNAME>
+    <CELLNO>0745135075</CELLNO>
+  </USER>
+  <USER id="2">
+    <NAME>Sizwe</NAME>
+    <SURNAME>Mazibuko</SURNAME>
+    <CELLNO>0745135075</CELLNO>
+  </USER>
+  <USER id="3">
+    <NAME>qwerty</NAME>
+    <SURNAME>qwerty</SURNAME>
+    <CELLNO>0741358567</CELLNO>
+  </USER>
+  <USER id="4">
+    <NAME>Ben</NAME>
+    <SURNAME>Wonder</SURNAME>
+    <CELLNO>0745132965</CELLNO>
+  </USER>
+  <USER id="5">
+    <NAME>Wonder</NAME>
+    <SURNAME>Brand</SURNAME>
+    <CELLNO>0745136591</CELLNO>
+  </USER>
+</USERS>

@@ -1,0 +1,23 @@
+﻿th {
+    background-image: linear-gradient(#fff, #d8dce1);
+    background-color: rgba(255, 255, 255, 0) !important;
+    color: black !important;
+    border-color: #c9caca !important;
+    word-wrap: break-word !important;
+    white-space: normal !important;
+}
+
+.site-header td {
+    background-image: linear-gradient(#74a912, #91c556);
+    color: white;
+    font-weight: bold;
+    border-top: 10px solid white !important;
+}
+
+.dtrg-group td {
+    background-image: linear-gradient(#2e5b09, #8ec255);
+    color: white;
+    font-weight: bold;
+    border-top: 10px solid white !important;
+    border-bottom: 10px solid white !important;
+}
